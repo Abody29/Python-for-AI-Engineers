@@ -9,7 +9,7 @@ This repository contains all code, exercises, and resources used throughout the 
 ## 📺 Course
 
 Watch the full course on YouTube:
-(`https://www.youtube.com/playlist?list=PLU21c9secb3M`)
+(https://www.youtube.com/playlist?list=PLU21c9secb3M)
 
 ---
 
